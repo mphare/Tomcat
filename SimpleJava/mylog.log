@@ -1,0 +1,97 @@
+2013-05-17 09:34:42,972 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:34:42,973 DEBUG [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:28)
+2013-05-17 09:34:42,975 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:36:11,198 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:36:11,200 DEBUG [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:28)
+2013-05-17 09:36:11,202 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:36:16,256 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:36:16,258 DEBUG [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:28)
+2013-05-17 09:36:16,260 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:36:19,181 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:36:19,183 DEBUG [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:28)
+2013-05-17 09:36:19,185 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:36:43,885 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:36:43,886 DEBUG [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:28)
+2013-05-17 09:36:43,888 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:39:03,119 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:39:03,123 DEBUG [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:28)
+2013-05-17 09:39:03,124 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:39:40,203 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:39:40,207 DEBUG [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:28)
+2013-05-17 09:39:40,208 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:44:01,898 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:44:01,902 DEBUG [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:28)
+2013-05-17 09:44:01,904 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:52:05,948 INFO [main] (Demo1) = This is INFO level
+2013-05-17 09:52:05,951 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:52:05,952 DEBUG [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:30)
+2013-05-17 09:52:05,954 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:52:23,911 INFO [main] (Demo1) = This is INFO level
+2013-05-17 09:52:23,914 TRACE [main] (Demo1) = This is TRACE level
+2013-05-17 09:52:23,914 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:52:23,915 DEBUG [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:30)
+2013-05-17 09:52:23,916 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:53:55,789 INFO [main] (Demo1) = This is INFO level
+2013-05-17 09:53:55,792 TRACE [main] (Demo1) = This is TRACE level
+2013-05-17 09:53:55,792 DEBUG [main] (Demo1) = This is DEBUG level
+2013-05-17 09:53:55,792 WARN [main] (Demo1) = This is WARN level
+2013-05-17 09:53:55,792 ERROR [main] (Demo1) = This is ERROR level
+2013-05-17 09:53:55,792 FATAL [main] (Demo1) = This is FATAL level
+2013-05-17 09:53:55,793 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:53:55,794 DEBUG [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:35)
+2013-05-17 09:53:55,797 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:54:53,500 WARN [main] (Demo1) = This is WARN level
+2013-05-17 09:54:53,503 ERROR [main] (Demo1) = This is ERROR level
+2013-05-17 09:54:53,503 FATAL [main] (Demo1) = This is FATAL level
+2013-05-17 09:55:11,859 DEBUG [main] (Demo1) = This is DEBUG level
+2013-05-17 09:55:11,862 INFO [main] (Demo1) = This is INFO level
+2013-05-17 09:55:11,862 WARN [main] (Demo1) = This is WARN level
+2013-05-17 09:55:11,862 ERROR [main] (Demo1) = This is ERROR level
+2013-05-17 09:55:11,862 FATAL [main] (Demo1) = This is FATAL level
+2013-05-17 09:55:11,862 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:55:11,864 DEBUG [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:35)
+2013-05-17 09:55:11,865 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:55:31,815 DEBUG [main] (Demo1) = This is DEBUG level
+2013-05-17 09:55:31,818 INFO [main] (Demo1) = This is INFO level
+2013-05-17 09:55:31,818 WARN [main] (Demo1) = This is WARN level
+2013-05-17 09:55:31,818 ERROR [main] (Demo1) = This is ERROR level
+2013-05-17 09:55:31,818 FATAL [main] (Demo1) = This is FATAL level
+2013-05-17 09:55:31,818 DEBUG [main] (Demo1) = method Started
+2013-05-17 09:55:31,819 ERROR [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:35)
+2013-05-17 09:55:31,821 DEBUG [main] (Demo1) = method Finished
+2013-05-17 09:55:56,635 DEBUG [main] (Demo1) = This is DEBUG level
+2013-05-17 09:55:56,638 INFO [main] (Demo1) = This is INFO level
+2013-05-17 09:55:56,638 WARN [main] (Demo1) = This is WARN level
+2013-05-17 09:55:56,638 ERROR [main] (Demo1) = This is ERROR level
+2013-05-17 09:55:56,638 FATAL [main] (Demo1) = This is FATAL level
+2013-05-17 09:55:56,638 INFO [main] (Demo1) = method Started
+2013-05-17 09:55:56,639 ERROR [main] (Demo1) = Error occurred due to: 
+java.lang.ArrayIndexOutOfBoundsException: 4
+	at com.whitehare.simple.java.SimpleJavaExceptionLog4j.main(SimpleJavaExceptionLog4j.java:35)
+2013-05-17 09:55:56,641 INFO [main] (Demo1) = method Finished
