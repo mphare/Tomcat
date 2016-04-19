@@ -1,3 +1,6 @@
-For DWP
-	Log4j - put the jar in tomcat/lib, put the properties file in <proj>/src
 
+Tutorial Location:
+????
+
+Run:
+http://localhost:8080/SimpleDWP/simpleTC
